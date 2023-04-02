@@ -1,0 +1,4 @@
+name: ChatMentions
+version: '${project.version}'
+main: de.artus.chatmentions.ChatMentions
+api-version: 1.19
